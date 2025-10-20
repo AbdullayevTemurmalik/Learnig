@@ -1,0 +1,14 @@
+.navbar {
+  background: #333;
+  color: white;
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.buttons button {
+  margin: 0 5px;
+  padding: 5px 10px;
+  cursor: pointer;
+}
